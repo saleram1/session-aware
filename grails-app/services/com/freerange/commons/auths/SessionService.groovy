@@ -1,9 +1,8 @@
-package session
-
-import com.teachscape.commons.auths.User
+package com.freerange.commons.auths
 
 import org.apache.shiro.SecurityUtils
 import org.springframework.web.context.request.RequestContextHolder as RCH
+
 
 class SessionService {
 

@@ -1,4 +1,4 @@
-package com.teachscape.commons.auths
+package com.freerange.commons.auths
 
 import org.apache.shiro.authc.AccountException
 import org.apache.shiro.authc.IncorrectCredentialsException

@@ -1,10 +1,10 @@
 
-import com.teachscape.commons.auths.User
-import com.teachscape.commons.auths.Role
+import com.freerange.commons.auths.User
+import com.freerange.commons.auths.Role
 
 import org.apache.shiro.crypto.hash.Sha512Hash
 
-// initialization time
+// initialization time - server startup gets new WebApplicationContext
 class BootStrap {
 
     def init = { servletContext ->

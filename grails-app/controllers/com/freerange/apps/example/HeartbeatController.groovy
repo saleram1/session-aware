@@ -1,4 +1,4 @@
-package com.teachscape.apps.example
+package com.freerange.apps.example
 
 
 /**

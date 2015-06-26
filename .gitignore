@@ -12,6 +12,7 @@
 TAGS
 \#*
 build/
+target/
 config/*-public.asc
 config/database.yml
 config/mongrel_cluster.yml

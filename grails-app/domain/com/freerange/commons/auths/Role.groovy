@@ -1,4 +1,4 @@
-package com.teachscape.commons.auths
+package com.freerange.commons.auths
 
 class Role {
     String name

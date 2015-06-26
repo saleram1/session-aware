@@ -1,5 +1,9 @@
-package com.teachscape.commons.auths
+package com.freerange.commons.auths
 
+/**
+ * Privileged User or Principal of the web application
+ *
+ */
 class User {
     String username
     String firstName
